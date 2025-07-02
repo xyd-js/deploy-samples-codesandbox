@@ -5,6 +5,7 @@
     "@xyd-js/cli": "0.1.0-xyd.197"
   },
   "scripts": {
+    "dev": "xyd dev",
     "build": "xyd build"
   },
   "engines": {

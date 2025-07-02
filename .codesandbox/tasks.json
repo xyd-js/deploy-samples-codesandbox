@@ -5,7 +5,7 @@
     "tasks": {
         "Start": {
             "name": "Start",
-            "command": "pnpm rundev",
+            "command": "pnpm run dev",
             "runAtStart": true
         }
     }
