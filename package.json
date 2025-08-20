@@ -2,7 +2,7 @@
   "name": "starter",
   "version": "0.0.0",
   "dependencies": {
-    "xyd-js": "0.1.0-prealpha.0"
+    "xyd-js": "0.1.0-prealpha.15"
   },
   "scripts": {
     "dev": "xyd dev",
